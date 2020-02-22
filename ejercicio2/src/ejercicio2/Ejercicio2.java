@@ -10,13 +10,10 @@ import java.util.Scanner;
 
 /**
  *
- * @author alumno
+ * @author Diego
  */
 public class Ejercicio2 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
        Scanner entrada = new Scanner(System.in);
         System.out.println("ingrese su nombre ");
